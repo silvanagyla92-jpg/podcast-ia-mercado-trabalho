@@ -2,15 +2,15 @@
 
 Podcast desenvolvido com o uso de Inteligência Artificial para explorar as transformações provocadas pela IA no mercado de trabalho, os impactos sobre diferentes profissões e as competências que ganham importância nesse novo cenário.
 
-## Sobre o projeto
+## 1. Sobre o projeto
 
-Este projeto foi desenvolvido como parte de um desafio prático da DIO, com o objetivo de aplicar ferramentas de Inteligência Artificial na criação de um podcast.
+Este projeto foi desenvolvido como parte do desafio prático da DIO **Criando um Podcast com Inteligência Artificial**, com o objetivo de aplicar ferramentas de Inteligência Artificial na criação de um podcast.
 
 A proposta envolve a utilização de IA em diferentes etapas do processo, desde a elaboração do conteúdo e do roteiro até a geração e edição do áudio final.
 
 O projeto também documenta os prompts utilizados durante o processo, permitindo acompanhar como a IA foi empregada na construção do resultado.
 
-## Objetivo
+## 2. Objetivo
 
 Criar um episódio de podcast sobre o impacto da Inteligência Artificial no mercado de trabalho, abordando:
 
@@ -22,7 +22,7 @@ Criar um episódio de podcast sobre o impacto da Inteligência Artificial no mer
 - Colaboração entre humanos e sistemas de Inteligência Artificial;
 - Importância do pensamento crítico e da avaliação dos resultados produzidos por IA.
 
-## Podcast
+## 3. Podcast
 
 **Nome:** Conexão IA — Trabalho e Futuro  
 **Tema:** Inteligência Artificial no mercado de trabalho  
@@ -30,7 +30,7 @@ Criar um episódio de podcast sobre o impacto da Inteligência Artificial no mer
 **Público-alvo:** Pessoas interessadas em tecnologia, Inteligência Artificial, carreira e transformação do mercado de trabalho.  
 **Duração prevista:** aproximadamente 5 a 8 minutos.
 
-### Estrutura do episódio
+### 3.1 Estrutura do episódio
 
 1. Abertura e apresentação do tema;
 2. A Inteligência Artificial está substituindo profissionais?;
@@ -39,7 +39,7 @@ Criar um episódio de podcast sobre o impacto da Inteligência Artificial no mer
 5. Colaboração entre humanos e IA;
 6. Considerações finais.
 
-## Processo de desenvolvimento
+## 4. Processo de desenvolvimento
 
 ```text
 Definição do tema
@@ -59,13 +59,13 @@ Podcast final
 Documentação no GitHub
 ```
 
-## Prompts utilizados
+## 5. Prompts utilizados
 
 Os prompts utilizados durante o desenvolvimento estão documentados na pasta [`prompts/`](prompts/).
 
 A documentação busca registrar não apenas o resultado final, mas também o processo utilizado para orientar a Inteligência Artificial na criação do conteúdo.
 
-## Estrutura do repositório
+## 6. Estrutura do repositório
 
 ```text
 podcast-ia-mercado-trabalho/
@@ -89,17 +89,17 @@ podcast-ia-mercado-trabalho/
     └── README.md
 ```
 
-## Ferramentas
+## 7. Ferramentas
 
 As ferramentas utilizadas serão registradas nesta seção após a execução de cada etapa do projeto. Nenhuma ferramenta é considerada utilizada antes de sua aplicação efetiva no projeto.
 
-## Resultado
+## 8. Resultado
 
 O resultado final será um episódio de podcast em formato de áudio, acompanhado da documentação e dos prompts utilizados durante o processo de criação.
 
 O arquivo final será disponibilizado em `audio/podcast-final.mp3` após a geração e edição do áudio.
 
-## Aprendizados
+## 9. Aprendizados
 
 Durante o desenvolvimento serão exploradas competências relacionadas a:
 
@@ -112,15 +112,15 @@ Durante o desenvolvimento serão exploradas competências relacionadas a:
 - Organização e documentação de projetos;
 - Versionamento utilizando Git e GitHub.
 
-## Desafio DIO
+## 10. Desafio DIO
 
-Este projeto foi desenvolvido a partir do desafio prático proposto pela DIO, que solicita a criação de um repositório contendo os prompts utilizados na criação do podcast e o áudio final editado.
+Este projeto foi desenvolvido a partir do desafio prático da DIO **Criando um Podcast com Inteligência Artificial**, que solicita a criação de um repositório contendo os prompts utilizados na criação do podcast e o áudio final editado.
 
 Projeto utilizado como referência: [prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia).
 
 Este repositório possui finalidade educacional e de portfólio. O projeto apresentado aqui constitui uma implementação própria baseada na proposta do desafio.
 
-## Status do projeto
+## 11. Status do projeto
 
 **Em desenvolvimento**
 
@@ -128,9 +128,9 @@ Este repositório possui finalidade educacional e de portfólio. O projeto apres
 - [x] Tema definido
 - [x] Nome do podcast definido
 - [x] Estrutura inicial criada
-- [x] README inicial
+- [x] README principal
+- [x] Roteiro completo criado e revisado
 - [ ] Prompts executados e documentados
-- [ ] Roteiro finalizado
 - [ ] Geração das vozes
 - [ ] Edição do áudio
 - [ ] Áudio final adicionado ao repositório
@@ -138,11 +138,18 @@ Este repositório possui finalidade educacional e de portfólio. O projeto apres
 - [ ] Auditoria final
 - [ ] Entrega do link na DIO
 
-## Licença
+## 12. Licença
 
 Projeto desenvolvido para fins educacionais e de portfólio. A licença será definida e adicionada ao repositório antes da conclusão da entrega.
 
-## Contato
+## 13. Contato
 
-**Nágyla Silva**  
-GitHub: [silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
+**Autor:** Nágyla Silva
+
+**Projeto:** Conexão IA — Trabalho e Futuro
+
+**Desafio:** Criando um Podcast com Inteligência Artificial
+
+**GitHub:** https://github.com/silvanagyla92-jpg
+
+**LinkedIn:** www.linkedin.com/in/nágyla-silva-215aba35
