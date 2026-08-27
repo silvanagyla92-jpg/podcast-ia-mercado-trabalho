@@ -12,88 +12,113 @@
 
 ### 1. Abertura
 
-**ANA:** Olá! Seja bem-vindo ao Conexão IA — Trabalho e Futuro. Neste podcast, vamos conversar sobre como a Inteligência Artificial está transformando a maneira como trabalhamos e quais mudanças já estão acontecendo no mercado profissional.
+**ANA:** Olá! Seja bem-vindo ao Conexão IA — Trabalho e Futuro. Hoje vamos conversar sobre uma transformação que já está presente em muitas atividades profissionais: o uso da Inteligência Artificial no trabalho.
 
-**LUCAS:** E quando falamos em Inteligência Artificial, uma das primeiras perguntas que aparece é: a IA vai substituir os trabalhadores? A resposta não é tão simples. Em muitos casos, o que está acontecendo é a automação de determinadas tarefas e a transformação das atividades realizadas pelos profissionais.
+**LUCAS:** E esse assunto costuma vir acompanhado de uma pergunta importante: a IA vai substituir os trabalhadores? A resposta depende muito da atividade, do contexto e da forma como a tecnologia é utilizada.
 
-**ANA:** Por isso, no episódio de hoje, vamos separar um pouco o medo das previsões exageradas e olhar para uma questão mais prática: como podemos nos preparar para trabalhar em um mercado cada vez mais influenciado pela IA?
+**ANA:** Por isso, em vez de tentar prever o desaparecimento de profissões inteiras, vamos olhar para algo mais concreto: quais tarefas estão mudando, quais competências ganham importância e como podemos nos preparar.
 
 ### 2. A IA está substituindo profissionais?
 
-**LUCAS:** Ana, vamos começar pela pergunta que provavelmente está na cabeça de muita gente. A Inteligência Artificial está substituindo profissionais?
+**LUCAS:** Ana, vamos começar pela pergunta que muita gente faz: a Inteligência Artificial está substituindo profissionais?
 
-**ANA:** Em algumas situações, tecnologias de automação podem reduzir a necessidade de determinadas atividades humanas. Mas existe uma diferença importante entre automatizar uma tarefa e eliminar uma profissão inteira.
+**ANA:** Em algumas situações, ferramentas de automação podem reduzir a necessidade de determinadas tarefas realizadas manualmente. Mas automatizar uma tarefa é diferente de eliminar uma profissão inteira.
 
-**LUCAS:** Exatamente. Uma profissão normalmente envolve várias atividades. Algumas podem ser automatizadas, enquanto outras continuam dependendo de comunicação, julgamento, criatividade, relacionamento com pessoas e responsabilidade sobre decisões.
+**LUCAS:** Uma profissão reúne várias atividades. Algumas podem ser automatizadas, enquanto outras continuam dependendo de julgamento, comunicação, criatividade, relacionamento e responsabilidade sobre decisões.
 
-**ANA:** Então, em vez de pensar apenas em profissões que desaparecerão, é mais útil observar quais tarefas estão mudando e como o trabalho dos profissionais pode ser reorganizado.
+**ANA:** Então, uma forma mais útil de analisar essa mudança é perguntar: o que esse profissional fazia antes, o que a tecnologia consegue fazer agora e quais atividades continuam dependendo de uma pessoa?
 
 ### 3. Profissões e atividades em transformação
 
-**LUCAS:** E quais áreas já podem sentir esse impacto?
+**LUCAS:** E onde podemos perceber essas mudanças?
 
-**ANA:** Praticamente qualquer área que envolva processamento de informações pode incorporar ferramentas de IA. Isso inclui atividades administrativas, atendimento, marketing, produção de conteúdo, programação, análise de dados e muitas outras.
+**ANA:** Em atividades que envolvem informação, por exemplo. Ferramentas de IA podem ajudar a resumir documentos, organizar informações, gerar rascunhos, analisar dados ou apoiar o atendimento.
 
-**LUCAS:** Um exemplo simples é o trabalho administrativo. Uma ferramenta de IA pode ajudar a organizar informações, resumir documentos, elaborar um primeiro rascunho de um texto ou classificar dados.
+**LUCAS:** Pense em uma atividade administrativa. Em vez de começar um documento do zero, o profissional pode usar uma ferramenta de IA para criar um primeiro rascunho e depois revisar o conteúdo.
 
-**ANA:** Mas isso não significa que o profissional deixou de ser necessário. Alguém ainda precisa verificar se as informações estão corretas, identificar erros, entender o contexto e decidir o que deve ser feito.
+**ANA:** Nesse cenário, o trabalho muda. A pessoa passa menos tempo em uma tarefa repetitiva e pode dedicar mais atenção à conferência, ao contexto e à decisão sobre o que realmente precisa ser feito.
 
-**LUCAS:** E esse ponto é importante: quanto mais uma ferramenta participa do processo, maior pode ser a importância de saber avaliar o resultado produzido por ela.
+**LUCAS:** E isso mostra por que saber avaliar uma resposta gerada por IA pode ser tão importante quanto saber solicitar essa resposta.
 
 ### 4. Novas competências profissionais
 
-**ANA:** Isso nos leva a outra questão: quais competências podem se tornar cada vez mais importantes?
+**ANA:** Então chegamos a uma questão fundamental: quais competências precisamos desenvolver?
 
-**LUCAS:** Uma delas é o pensamento crítico. Não basta receber uma resposta de uma ferramenta de IA e aceitar automaticamente. É necessário questionar, comparar informações e verificar se o resultado faz sentido.
+**LUCAS:** Uma delas é o pensamento crítico. Não basta receber uma resposta de uma ferramenta e aceitá-la automaticamente. É preciso questionar, comparar informações e verificar se o resultado é adequado.
 
-**ANA:** Também existe a necessidade de aprender a utilizar novas ferramentas digitais. Não é preciso dominar todas as tecnologias existentes, mas compreender como elas podem ser utilizadas para resolver problemas reais.
+**ANA:** Outra é a capacidade de aprender novas ferramentas. A tecnologia muda rapidamente, então aprender continuamente pode ser mais útil do que depender de uma única ferramenta.
 
-**LUCAS:** Comunicação também continua sendo importante. Saber explicar um problema, fornecer contexto e transmitir uma informação de maneira clara é fundamental, inclusive quando estamos trabalhando com sistemas de IA.
+**LUCAS:** Comunicação também continua sendo essencial. Saber explicar um problema, fornecer contexto e transmitir informações com clareza ajuda tanto no trabalho entre pessoas quanto na interação com sistemas de IA.
 
-**ANA:** E eu acrescentaria uma competência essencial: conhecer as limitações da própria tecnologia. A IA pode produzir respostas incorretas, incompletas ou inadequadas. Por isso, revisão e supervisão continuam sendo importantes.
+**ANA:** E existe ainda uma competência que merece destaque: conhecer as limitações da tecnologia. Uma IA pode gerar informações incorretas, incompletas ou inadequadas. Por isso, revisão e supervisão continuam sendo necessárias.
 
 ### 5. Humanos e IA trabalhando juntos
 
-**LUCAS:** Então talvez a discussão não deva ser apenas sobre humanos contra máquinas, mas sobre humanos trabalhando com máquinas.
+**LUCAS:** Talvez, então, a questão não seja simplesmente humanos contra máquinas, mas humanos trabalhando com máquinas.
 
-**ANA:** Exatamente. Podemos imaginar a IA como uma ferramenta que auxilia determinadas etapas do trabalho. O profissional continua responsável por interpretar os resultados, tomar decisões e considerar as consequências dessas decisões.
+**ANA:** Essa é uma maneira interessante de pensar. A IA pode auxiliar determinadas etapas do trabalho, enquanto o profissional interpreta resultados, toma decisões e assume responsabilidade pelo uso dessas informações.
 
-**LUCAS:** Isso também cria novas oportunidades. Profissionais que aprendem a utilizar IA de maneira responsável podem conseguir automatizar tarefas repetitivas e dedicar mais tempo a atividades que exigem análise, criatividade ou interação humana.
+**LUCAS:** Isso pode permitir que algumas tarefas repetitivas sejam automatizadas e que o profissional concentre mais tempo em atividades que exigem análise, criatividade, relacionamento ou tomada de decisão.
 
-**ANA:** Mas é importante evitar a ideia de que simplesmente saber usar uma ferramenta garante uma vantagem profissional permanente. As tecnologias mudam rapidamente, então a capacidade de aprender e se adaptar também se torna importante.
+**ANA:** Mas existe um cuidado importante: saber usar uma ferramenta hoje não significa que o conhecimento permanecerá suficiente para sempre. A capacidade de aprender, testar e se adaptar também faz parte da preparação profissional.
 
 ### 6. Cuidados no uso da IA
 
-**LUCAS:** E existe outro lado dessa transformação: os riscos.
+**LUCAS:** E não podemos falar de IA no trabalho sem falar dos riscos.
 
-**ANA:** Sim. Precisamos considerar questões como privacidade, segurança, vieses, informações incorretas e uso inadequado de conteúdos gerados por IA.
+**ANA:** Claro. Questões como privacidade, segurança, vieses e informações incorretas precisam ser consideradas. Também é importante observar se determinado conteúdo pode ser utilizado e compartilhado de forma adequada.
 
-**LUCAS:** Por isso, utilizar Inteligência Artificial no trabalho exige responsabilidade. Antes de colocar uma informação produzida por uma ferramenta em uma decisão importante, é necessário avaliar sua qualidade e verificar as fontes quando isso for necessário.
+**LUCAS:** Em situações importantes, uma resposta gerada por IA não deve ser tratada como verdade apenas porque foi produzida por uma ferramenta tecnológica.
 
-**ANA:** A tecnologia pode aumentar a produtividade, mas não elimina a necessidade de responsabilidade humana.
+**ANA:** Exatamente. É necessário avaliar a qualidade da informação e, quando apropriado, verificar fontes e consultar pessoas responsáveis pelo assunto.
+
+**LUCAS:** A tecnologia pode apoiar o trabalho, mas não elimina a responsabilidade de quem a utiliza.
 
 ### 7. Encerramento
 
-**LUCAS:** Então, se tivéssemos que resumir o episódio em uma ideia, qual seria?
+**LUCAS:** Se tivéssemos que resumir nossa conversa em uma ideia, qual seria?
 
-**ANA:** Eu diria que o futuro do trabalho não depende apenas de saber se a IA substituirá ou não determinados profissionais. O mais importante é entender como as atividades estão mudando e como podemos nos preparar para essas mudanças.
+**ANA:** Eu diria que o futuro do trabalho não depende apenas de saber quais profissões serão afetadas pela IA. Precisamos entender como as tarefas estão mudando e desenvolver competências para trabalhar nesse novo contexto.
 
-**LUCAS:** Aprender continuamente, desenvolver pensamento crítico e entender como utilizar a tecnologia de forma responsável podem ser diferenciais importantes.
+**LUCAS:** Pensamento crítico, aprendizagem contínua, comunicação e capacidade de avaliar resultados são exemplos de competências que podem ajudar profissionais a lidar melhor com essa transformação.
 
-**ANA:** E, principalmente, não precisamos enxergar a Inteligência Artificial apenas como uma ameaça. Ela também pode ser uma ferramenta para ampliar capacidades humanas, automatizar tarefas repetitivas e criar novas formas de trabalhar.
+**ANA:** E a Inteligência Artificial pode ser vista não apenas como uma ameaça, mas também como uma ferramenta. O resultado depende de como ela é utilizada, supervisionada e integrada ao trabalho.
 
-**LUCAS:** Este foi o Conexão IA — Trabalho e Futuro. Obrigado por acompanhar o episódio.
+**LUCAS:** Este foi o Conexão IA — Trabalho e Futuro. Obrigado por acompanhar nosso episódio.
 
-**ANA:** Até a próxima! E lembre-se: a tecnologia muda, mas a capacidade de aprender continua sendo uma das nossas melhores ferramentas.
+**ANA:** Até a próxima! E lembre-se: a tecnologia muda, mas continuar aprendendo é uma habilidade que permanece importante.
 
-## Observações para produção do áudio
+## Orientações para produção do áudio
 
 - Utilizar duas vozes distintas para diferenciar Ana e Lucas.
 - Manter ritmo conversacional e natural.
-- Inserir pequenas pausas entre as falas.
-- Evitar leitura excessivamente rápida.
-- Realizar revisão do áudio antes da publicação.
-- A duração final será determinada pela velocidade das vozes e pelas pausas utilizadas na edição.
+- Inserir pausas curtas entre as falas e pausas maiores entre os blocos.
+- Evitar velocidade excessiva para preservar a compreensão.
+- Fazer revisão do áudio antes da publicação.
+- A duração final dependerá da velocidade das vozes, das pausas e da edição.
+
+## Auditoria do roteiro
+
+### Naturalidade
+
+- [x] Falas alternadas entre os apresentadores.
+- [x] Perguntas e respostas para criar dinâmica de conversa.
+- [x] Frases adequadas para leitura em voz alta.
+- [x] Redução de construções excessivamente formais.
+
+### Coerência
+
+- [x] O tema é apresentado na abertura.
+- [x] Os argumentos evoluem de automação para competências e colaboração.
+- [x] Os riscos são apresentados antes da conclusão.
+- [x] O encerramento retoma o objetivo do episódio.
+
+### Precisão e responsabilidade
+
+- [x] Evita afirmar que a IA necessariamente eliminará profissões.
+- [x] Diferencia automação de tarefas e substituição de ocupações.
+- [x] Reconhece limitações e riscos da IA.
+- [x] Não apresenta previsões sobre o futuro como fatos confirmados.
 
 ## Status
 
@@ -101,7 +126,7 @@
 - [x] Formato definido
 - [x] Personagens definidos
 - [x] Roteiro completo criado
-- [ ] Revisão final do roteiro
+- [x] Revisão final do roteiro
 - [ ] Geração das vozes
 - [ ] Edição do áudio
 - [ ] Exportação do podcast final
