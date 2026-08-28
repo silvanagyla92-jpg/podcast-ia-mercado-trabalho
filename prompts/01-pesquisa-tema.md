@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Definir os principais pontos que devem ser abordados em um podcast sobre Inteligência Artificial e mercado de trabalho.
+Definir os principais pontos que deveriam ser abordados em um podcast sobre Inteligência Artificial e mercado de trabalho.
 
-## Prompt
+## Prompt utilizado
 
 ```text
 Atue como pesquisador e produtor de conteúdo para um podcast educativo sobre Inteligência Artificial.
@@ -26,9 +26,25 @@ Considere especialmente:
 Priorize clareza, equilíbrio e linguagem adequada para um público não especializado.
 ```
 
-## Observação
+## Aplicação no projeto
 
-Este prompt será refinado após a execução e avaliação da resposta gerada pela IA.
+O direcionamento do prompt foi utilizado como base para estruturar o episódio em torno de automação, transformação de atividades, competências profissionais, colaboração entre humanos e IA e cuidados no uso da tecnologia.
+
+A pesquisa orientou a definição dos blocos posteriormente desenvolvidos no roteiro final.
+
+## Critérios adotados
+
+- evitar sensacionalismo;
+- diferenciar fatos, tendências e previsões;
+- priorizar linguagem acessível;
+- não inserir estatísticas sem verificação;
+- considerar benefícios e limitações da IA.
+
+## Resultado
+
+A etapa de pesquisa e definição do tema foi concluída e incorporada ao planejamento do episódio.
+
+**Status: concluído.**
 
 ---
 
