@@ -1,69 +1,80 @@
 # Conexão IA — Trabalho e Futuro
 
-Podcast desenvolvido com o uso de Inteligência Artificial para explorar as transformações provocadas pela IA no mercado de trabalho, os impactos sobre diferentes profissões e as competências que ganham importância nesse novo cenário.
+Podcast educativo sobre as transformações provocadas pela Inteligência Artificial no mercado de trabalho, com foco em automação de tarefas, mudanças profissionais, competências, colaboração entre pessoas e IA e uso responsável da tecnologia.
 
 ## 1. Sobre o projeto
 
-Este projeto foi desenvolvido como parte do desafio prático da DIO **Criando um Podcast com Inteligência Artificial**, com o objetivo de aplicar ferramentas de Inteligência Artificial na criação de um podcast.
+Este projeto foi desenvolvido como parte do desafio prático da DIO **Criando um Podcast com Inteligência Artificial**.
 
-A proposta envolve a utilização de IA em diferentes etapas do processo, desde a elaboração do conteúdo e do roteiro até a geração e edição do áudio final.
+A proposta foi utilizar Inteligência Artificial em diferentes etapas da produção, documentando o processo de definição do tema, planejamento, criação e revisão do roteiro, preparação das falas, geração das vozes, edição e exportação do episódio final.
 
-O projeto também documenta os prompts utilizados durante o processo, permitindo acompanhar como a IA foi empregada na construção do resultado.
+O repositório foi organizado para tornar o processo reproduzível e permitir a avaliação não apenas do resultado, mas também dos prompts e das decisões adotadas durante a produção.
 
 ## 2. Objetivo
 
-Criar um episódio de podcast sobre o impacto da Inteligência Artificial no mercado de trabalho, abordando:
+Criar um episódio de podcast acessível sobre o impacto da Inteligência Artificial no mercado de trabalho, abordando:
 
-- Transformação das profissões;
-- Automação de tarefas;
-- Mudanças nas atividades profissionais;
-- Novas oportunidades relacionadas à IA;
-- Competências profissionais valorizadas no contexto da IA;
-- Colaboração entre humanos e sistemas de Inteligência Artificial;
-- Importância do pensamento crítico e da avaliação dos resultados produzidos por IA.
+- transformação das profissões;
+- automação de tarefas;
+- mudanças nas atividades profissionais;
+- novas oportunidades relacionadas à IA;
+- competências valorizadas no contexto da IA;
+- colaboração entre humanos e sistemas de IA;
+- pensamento crítico e avaliação de resultados;
+- limitações, riscos e uso responsável da tecnologia.
 
 ## 3. Podcast
 
-**Nome:** Conexão IA — Trabalho e Futuro  
-**Tema:** Inteligência Artificial no mercado de trabalho  
-**Formato:** Conversa entre dois apresentadores  
-**Público-alvo:** Pessoas interessadas em tecnologia, Inteligência Artificial, carreira e transformação do mercado de trabalho.  
-**Duração prevista:** aproximadamente 5 a 8 minutos.
+- **Nome:** Conexão IA — Trabalho e Futuro
+- **Tema:** Inteligência Artificial no mercado de trabalho
+- **Formato:** conversa entre dois apresentadores
+- **Apresentadores:** Ana e Lucas
+- **Público-alvo:** pessoas interessadas em tecnologia, carreira e transformação do mercado de trabalho
+- **Resultado:** episódio final em áudio
 
 ### 3.1 Estrutura do episódio
 
 1. Abertura e apresentação do tema;
-2. A Inteligência Artificial está substituindo profissionais?;
-3. Profissões e atividades que estão sendo transformadas;
+2. IA e substituição de profissionais;
+3. Profissões e atividades em transformação;
 4. Novas competências profissionais;
 5. Colaboração entre humanos e IA;
-6. Considerações finais.
+6. Cuidados no uso da IA;
+7. Encerramento.
 
 ## 4. Processo de desenvolvimento
 
 ```text
 Definição do tema
        ↓
-Planejamento do episódio
+Pesquisa e planejamento
        ↓
 Criação do roteiro com IA
        ↓
 Revisão e avaliação do roteiro
        ↓
+Preparação das falas
+       ↓
 Geração das vozes
        ↓
-Edição do áudio
+Edição e organização do áudio
        ↓
-Podcast final
+Exportação do episódio final
        ↓
-Documentação no GitHub
+Documentação e auditoria do repositório
 ```
 
 ## 5. Prompts utilizados
 
-Os prompts utilizados durante o desenvolvimento estão documentados na pasta [`prompts/`](prompts/).
+Os prompts utilizados estão documentados na pasta [`prompts/`](prompts/), organizados conforme as principais etapas do projeto:
 
-A documentação busca registrar não apenas o resultado final, mas também o processo utilizado para orientar a Inteligência Artificial na criação do conteúdo.
+1. pesquisa e definição do tema;
+2. criação do roteiro;
+3. revisão do roteiro;
+4. preparação para geração das vozes;
+5. planejamento da edição do áudio.
+
+Os prompts foram escritos com preocupação em clareza, naturalidade, equilíbrio e prevenção de afirmações não verificadas.
 
 ## 6. Estrutura do repositório
 
@@ -83,68 +94,96 @@ podcast-ia-mercado-trabalho/
 │   └── roteiro-final.md
 │
 ├── audio/
+│   ├── Conexão IA — Trabalho e Futuro.m4a
 │   └── README.md
 │
 └── evidencias/
     └── README.md
 ```
 
-## 7. Ferramentas
+## 7. Ferramentas utilizadas
 
-As ferramentas utilizadas serão registradas nesta seção após a execução de cada etapa do projeto. Nenhuma ferramenta é considerada utilizada antes de sua aplicação efetiva no projeto.
+As ferramentas foram utilizadas de acordo com cada etapa efetivamente realizada no projeto:
 
-## 8. Resultado
+- **Inteligência Artificial generativa:** apoio à pesquisa, estruturação, criação e revisão do conteúdo;
+- **Ferramenta de síntese de voz:** geração das falas dos apresentadores Ana e Lucas;
+- **Clipchamp:** organização, edição e exportação do áudio final;
+- **GitHub:** armazenamento, versionamento e documentação do projeto.
 
-O resultado final será um episódio de podcast em formato de áudio, acompanhado da documentação e dos prompts utilizados durante o processo de criação.
+A documentação evita atribuir a uma ferramenta uma etapa que não tenha sido efetivamente realizada por ela.
 
-O arquivo final será disponibilizado em `audio/podcast-final.mp3` após a geração e edição do áudio.
+## 8. Resultado final
 
-## 9. Aprendizados
+O episódio foi produzido, revisado, editado e exportado. O arquivo final está disponível na pasta [`audio/`](audio/).
 
-Durante o desenvolvimento serão exploradas competências relacionadas a:
+O arquivo atualmente versionado é:
 
-- Engenharia de prompts;
+`audio/Conexão IA — Trabalho e Futuro.m4a`
+
+O podcast foi concebido como produção exclusivamente em áudio, sem necessidade de imagens ou vídeo como parte do conteúdo final.
+
+## 9. Aprendizados e competências demonstradas
+
+Durante o desenvolvimento foram trabalhadas competências relacionadas a:
+
+- engenharia de prompts;
 - Inteligência Artificial generativa;
-- Criação e revisão de conteúdo com IA;
-- Avaliação crítica de respostas geradas por IA;
-- Produção de conteúdo multimídia;
-- Geração e edição de áudio;
-- Organização e documentação de projetos;
-- Versionamento utilizando Git e GitHub.
+- criação e revisão de conteúdo com IA;
+- avaliação crítica de respostas geradas por IA;
+- planejamento de conteúdo;
+- preparação de texto para síntese de voz;
+- geração e edição de áudio;
+- organização e documentação de projetos;
+- versionamento utilizando Git e GitHub;
+- revisão de consistência entre documentação e resultado final.
 
-## 10. Desafio DIO
+## 10. Critérios de qualidade adotados
 
-Este projeto foi desenvolvido a partir do desafio prático da DIO **Criando um Podcast com Inteligência Artificial**, que solicita a criação de um repositório contendo os prompts utilizados na criação do podcast e o áudio final editado.
+O projeto priorizou:
 
-Projeto utilizado como referência: [prompts-for-podcast-generate-by-ia](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia).
+- linguagem clara e acessível;
+- formato conversacional entre dois apresentadores;
+- coerência entre as etapas do roteiro;
+- diferenciação entre automação de tarefas e substituição completa de profissões;
+- ausência de estatísticas inventadas;
+- reconhecimento das limitações da IA;
+- abordagem de riscos como privacidade, segurança, vieses e informações incorretas;
+- revisão do áudio antes da entrega;
+- consistência entre arquivos e status do projeto.
 
-Este repositório possui finalidade educacional e de portfólio. O projeto apresentado aqui constitui uma implementação própria baseada na proposta do desafio.
+## 11. Desafio DIO
 
-## 11. Status do projeto
+Este projeto foi desenvolvido a partir do desafio prático da DIO **Criando um Podcast com Inteligência Artificial**, com finalidade educacional e de portfólio.
 
-**Em desenvolvimento**
+A implementação apresentada neste repositório é própria e documenta o processo utilizado para produzir o episódio.
+
+## 12. Status do projeto
+
+**Concluído**
 
 - [x] Repositório criado
 - [x] Tema definido
 - [x] Nome do podcast definido
-- [x] Estrutura inicial criada
-- [x] README principal
+- [x] Estrutura do projeto criada
+- [x] Pesquisa e planejamento realizados
+- [x] Prompts documentados
 - [x] Roteiro completo criado e revisado
-- [ ] Prompts executados e documentados
-- [ ] Geração das vozes
-- [ ] Edição do áudio
-- [ ] Áudio final adicionado ao repositório
-- [ ] Evidências organizadas
-- [ ] Auditoria final
-- [ ] Entrega do link na DIO
+- [x] Falas preparadas para síntese de voz
+- [x] Vozes geradas
+- [x] Áudio editado
+- [x] Áudio final exportado
+- [x] Áudio adicionado ao repositório
+- [x] README principal revisado
+- [x] Documentação das pastas revisada
+- [x] Auditoria final realizada
 
-## 12. Licença
+## 13. Licença e uso
 
-Projeto desenvolvido para fins educacionais e de portfólio. A licença será definida e adicionada ao repositório antes da conclusão da entrega.
+Projeto desenvolvido para fins educacionais e de portfólio. Os materiais originais deste repositório representam o trabalho desenvolvido para o desafio. Ferramentas, serviços e referências externas eventualmente utilizados permanecem sujeitos aos respectivos termos e licenças.
 
-## 13. Contato
+## 14. Contato
 
-**Autor:** Nágyla Silva
+**Autora:** Nágyla Silva
 
 **Projeto:** Conexão IA — Trabalho e Futuro
 
