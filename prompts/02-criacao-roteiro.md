@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Transformar os tópicos definidos na etapa anterior em um roteiro de podcast com dois apresentadores.
+Transformar os tópicos definidos na etapa de pesquisa em um roteiro de podcast com dois apresentadores, linguagem natural e abordagem equilibrada.
 
-## Prompt
+## Prompt utilizado
 
 ```text
 Crie um roteiro original para um podcast chamado "Conexão IA — Trabalho e Futuro".
@@ -12,8 +12,6 @@ Crie um roteiro original para um podcast chamado "Conexão IA — Trabalho e Fut
 Tema: Inteligência Artificial no mercado de trabalho.
 
 Formato: conversa entre dois apresentadores, identificados como APRESENTADOR 1 e APRESENTADOR 2.
-
-Duração aproximada: 5 a 8 minutos.
 
 Público: pessoas interessadas em tecnologia, carreira e mudanças no mercado de trabalho, sem necessidade de conhecimento técnico prévio.
 
@@ -31,6 +29,27 @@ Use linguagem natural, clara e adequada para fala. Evite exageros como "a IA vai
 
 Não invente estatísticas ou estudos. Quando uma afirmação exigir dado específico, sinalize que a fonte deve ser verificada antes da gravação.
 ```
+
+## Aplicação no projeto
+
+O prompt foi utilizado como orientação para estruturar o conteúdo do episódio e transformar os tópicos da etapa anterior em uma conversa entre dois apresentadores.
+
+A estrutura resultante foi posteriormente revisada antes da produção do áudio.
+
+## Critérios adotados
+
+- linguagem natural para fala;
+- organização em blocos temáticos;
+- alternância entre os apresentadores;
+- abordagem equilibrada dos impactos da IA;
+- distinção entre automação de tarefas e substituição de profissões;
+- prevenção de estatísticas e estudos sem verificação.
+
+## Resultado
+
+O roteiro completo foi produzido e encaminhado para a etapa de revisão e avaliação.
+
+**Status: concluído.**
 
 ---
 
