@@ -28,3 +28,11 @@ Entregue o texto final pronto para ser utilizado em uma ferramenta de síntese d
 ## Observação
 
 A ferramenta de geração de voz será registrada neste arquivo somente após sua utilização efetiva no projeto.
+
+---
+
+**Projeto:** Conexão IA — Trabalho e Futuro
+
+**Autora:** Nágyla Silva
+
+Projeto integrante do portfólio prático em Inteligência Artificial, desenvolvido para demonstrar competências em treinamento e avaliação de sistemas de IA, análise crítica de respostas e anotação de dados, aplicadas às funções de AI Trainer, AI Response Evaluator e Data Annotator, com base em experiência em QA e Auditoria.
