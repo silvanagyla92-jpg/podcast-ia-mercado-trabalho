@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Preparar as falas do roteiro para uma ferramenta de geração de voz, preservando naturalidade e diferenciação entre os apresentadores.
+Preparar as falas do roteiro para geração de voz em um podcast com dois apresentadores, preservando o conteúdo e favorecendo naturalidade, clareza e diferenciação entre as vozes.
 
-## Prompt
+## Prompt utilizado
 
 ```text
 Prepare o roteiro abaixo para geração de voz em um podcast com dois apresentadores.
@@ -25,9 +25,27 @@ Não altere informações factuais sem justificativa e não acrescente dados nov
 Entregue o texto final pronto para ser utilizado em uma ferramenta de síntese de voz.
 ```
 
-## Observação
+## Execução
 
-A ferramenta de geração de voz será registrada neste arquivo somente após sua utilização efetiva no projeto.
+O roteiro preparado foi utilizado para gerar as falas dos dois apresentadores do episódio.
+
+Foram utilizadas duas vozes distintas para diferenciar **Ana** e **Lucas**. As falas foram geradas em blocos e posteriormente reunidas na edição final.
+
+A etapa foi efetivamente realizada antes da edição e exportação do episódio.
+
+## Critérios observados
+
+- diferenciação entre os apresentadores;
+- clareza da fala;
+- ritmo adequado para conteúdo conversacional;
+- preservação do conteúdo do roteiro;
+- organização das falas na ordem prevista.
+
+## Resultado
+
+As vozes geradas foram utilizadas como material de produção do episódio final disponível na pasta [`../audio/`](../audio/).
+
+**Status: concluído.**
 
 ---
 
