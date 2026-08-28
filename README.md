@@ -179,19 +179,7 @@ A implementação apresentada neste repositório é própria e documenta o proce
 - [x] Auditoria final realizada
 - [x] Licença adicionada
 
-## 13. Licença e uso
-
-**CC BY-NC-ND 4.0 — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.**
-
-Os materiais originais deste projeto, incluindo roteiro, documentação, prompts e áudio, são disponibilizados sob essa licença, salvo indicação diferente ou direitos de terceiros eventualmente aplicáveis.
-
-A licença permite compartilhar o material desde que a autoria seja atribuída, mas não permite uso comercial nem distribuição de versões modificadas.
-
-Consulte o arquivo [`LICENSE`](LICENSE) para as condições aplicáveis e o texto legal da licença.
-
-Ferramentas, serviços, marcas e materiais de terceiros mencionados no projeto permanecem sujeitos aos respectivos termos e direitos.
-
-## 14. Contato
+## 13. Contato
 
 **Autora:** Nágyla Silva
 
@@ -202,6 +190,18 @@ Ferramentas, serviços, marcas e materiais de terceiros mencionados no projeto p
 **GitHub:** https://github.com/silvanagyla92-jpg
 
 **LinkedIn:** www.linkedin.com/in/nágyla-silva-215aba35
+
+## 14. Licença e uso
+
+**CC BY-NC-ND 4.0 — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.**
+
+Os materiais originais deste projeto, incluindo roteiro, documentação, prompts e áudio, são disponibilizados sob essa licença, salvo indicação diferente ou direitos de terceiros eventualmente aplicáveis.
+
+A licença permite compartilhar o material desde que a autoria seja atribuída, mas não permite uso comercial nem distribuição de versões modificadas.
+
+Consulte o arquivo [`LICENSE`](LICENSE) para as condições aplicáveis e o texto legal da licença.
+
+Ferramentas, serviços, marcas e materiais de terceiros mencionados no projeto permanecem sujeitos aos respectivos termos e direitos.
 
 ---
 
