@@ -82,6 +82,7 @@ Os prompts foram escritos com preocupação em clareza, naturalidade, equilíbri
 podcast-ia-mercado-trabalho/
 │
 ├── README.md
+├── LICENSE
 │
 ├── prompts/
 │   ├── 01-pesquisa-tema.md
@@ -176,10 +177,19 @@ A implementação apresentada neste repositório é própria e documenta o proce
 - [x] README principal revisado
 - [x] Documentação das pastas revisada
 - [x] Auditoria final realizada
+- [x] Licença adicionada
 
 ## 13. Licença e uso
 
-Projeto desenvolvido para fins educacionais e de portfólio. Os materiais originais deste repositório representam o trabalho desenvolvido para o desafio. Ferramentas, serviços e referências externas eventualmente utilizados permanecem sujeitos aos respectivos termos e licenças.
+**CC BY-NC-ND 4.0 — Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International.**
+
+Os materiais originais deste projeto, incluindo roteiro, documentação, prompts e áudio, são disponibilizados sob essa licença, salvo indicação diferente ou direitos de terceiros eventualmente aplicáveis.
+
+A licença permite compartilhar o material desde que a autoria seja atribuída, mas não permite uso comercial nem distribuição de versões modificadas.
+
+Consulte o arquivo [`LICENSE`](LICENSE) para as condições aplicáveis e o texto legal da licença.
+
+Ferramentas, serviços, marcas e materiais de terceiros mencionados no projeto permanecem sujeitos aos respectivos termos e direitos.
 
 ## 14. Contato
 
