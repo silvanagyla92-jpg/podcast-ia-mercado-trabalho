@@ -2,9 +2,9 @@
 
 ## Objetivo
 
-Avaliar a qualidade do roteiro antes da geração do áudio.
+Avaliar a qualidade do roteiro antes da geração do áudio, verificando clareza, coerência, naturalidade, equilíbrio e responsabilidade das afirmações.
 
-## Prompt
+## Prompt utilizado
 
 ```text
 Atue como revisor e avaliador de conteúdo para um podcast educativo sobre Inteligência Artificial e mercado de trabalho.
@@ -31,9 +31,28 @@ Separe sua análise em:
 Não introduza estatísticas, fontes ou fatos novos sem indicar que precisam ser verificados.
 ```
 
-## Critério de revisão
+## Critérios de revisão aplicados
 
-A versão final do roteiro será aprovada somente depois de verificar clareza, coerência, naturalidade e ausência de afirmações factuais não verificadas.
+O roteiro foi revisado considerando:
+
+- clareza e compreensão para público não especializado;
+- coerência entre abertura, desenvolvimento e conclusão;
+- naturalidade para leitura em voz alta;
+- alternância equilibrada entre Ana e Lucas;
+- redução de afirmações absolutas sobre substituição de profissionais;
+- diferenciação entre automação de tarefas e eliminação de profissões;
+- reconhecimento de limitações e riscos da IA;
+- ausência de estatísticas ou estudos apresentados sem fonte;
+- transições adequadas entre os blocos;
+- qualidade da abertura e do encerramento.
+
+## Resultado da avaliação
+
+O roteiro final foi considerado adequado para a etapa de geração das vozes. As verificações realizadas estão registradas também na seção **Auditoria do roteiro** do arquivo [`../roteiro/roteiro-final.md`](../roteiro/roteiro-final.md).
+
+A versão aprovada passou para a etapa de preparação das falas e geração das vozes.
+
+**Status: concluído e aprovado para produção.**
 
 ---
 
