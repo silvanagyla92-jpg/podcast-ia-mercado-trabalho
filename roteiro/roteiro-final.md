@@ -5,8 +5,8 @@
 - **Tema:** Inteligência Artificial no mercado de trabalho
 - **Formato:** conversa entre dois apresentadores
 - **Apresentadores:** Ana e Lucas
-- **Duração estimada:** 5 a 8 minutos
 - **Público:** pessoas interessadas em tecnologia, carreira e transformação profissional
+- **Resultado:** roteiro utilizado como base para a produção do episódio final
 
 ## Roteiro completo
 
@@ -90,12 +90,12 @@
 
 ## Orientações para produção do áudio
 
-- Utilizar duas vozes distintas para diferenciar Ana e Lucas.
-- Manter ritmo conversacional e natural.
-- Inserir pausas curtas entre as falas e pausas maiores entre os blocos.
-- Evitar velocidade excessiva para preservar a compreensão.
-- Fazer revisão do áudio antes da publicação.
-- A duração final dependerá da velocidade das vozes, das pausas e da edição.
+- Foram utilizadas duas vozes distintas para diferenciar Ana e Lucas.
+- As falas foram organizadas em sequência conversacional.
+- O roteiro foi preparado para favorecer ritmo e compreensão na síntese de voz.
+- O áudio foi revisado após a geração das vozes.
+- As falas foram reunidas em um único arquivo de episódio.
+- O resultado foi exportado e disponibilizado no repositório.
 
 ## Auditoria do roteiro
 
@@ -119,17 +119,21 @@
 - [x] Diferencia automação de tarefas e substituição de ocupações.
 - [x] Reconhece limitações e riscos da IA.
 - [x] Não apresenta previsões sobre o futuro como fatos confirmados.
+- [x] Evita estatísticas sem fonte.
 
-## Status
+## Status da produção
 
 - [x] Tema definido
 - [x] Formato definido
-- [x] Personagens definidos
+- [x] Apresentadores definidos
 - [x] Roteiro completo criado
 - [x] Revisão final do roteiro
-- [ ] Geração das vozes
-- [ ] Edição do áudio
-- [ ] Exportação do podcast final
+- [x] Falas preparadas
+- [x] Geração das vozes
+- [x] Edição do áudio
+- [x] Exportação do podcast final
+
+**Status: concluído.**
 
 ---
 
